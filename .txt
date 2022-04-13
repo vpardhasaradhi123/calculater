@@ -1,6 +1,0 @@
-<!doctype html>
-<html>
-<head>
-<title> basic calculater </title>
-</head>
-</html>
