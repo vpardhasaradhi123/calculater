@@ -1,9 +1,9 @@
-file name - multiplication
+
 function multi() {
 var a = document.getElementById("firstno").value
 var b = document.getElementById("secondno").value
 var result
 result = a * b
-document.getElementById("result").value
+document.getElementById("result").value=result
 }
 
