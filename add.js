@@ -1,9 +1,9 @@
 
 function add()
  {
-var a = document.getElementById("firstno").Value
-var b = document.getElementById("secondno").Value
+var a = document.getElementById("firstno").value
+var b = document.getElementById("secondno").value
 var result
 result = praseInt(a) + praseInt(b)
-document.getElementById("result").Value=result
+document.getElementById("result").value=result
 }
